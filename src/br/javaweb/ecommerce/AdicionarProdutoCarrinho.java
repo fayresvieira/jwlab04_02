@@ -1,3 +1,17 @@
+/*
+
+Classe AdicionarProdutoCarrinho - Utiliza a classe de Catalogo para pegar informações através do Id,
+para adicionar ao carrinho de compras, obtendo informações através da classe ProdutoDAO onde a mesma
+instancia um novo objeto através da classe ProdutoDAOImpl;
+Utiliza o metodo getProdutoById e repassa para formatação do HTML com utilizazação dos métodos 
+getId,getCodigo,getNome,getDescricao,getPreco e getImage() obtidos pela classe Produto; 
+
+Através do atributo getParameters();
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
 package br.javaweb.ecommerce;
 
 import br.javaweb.dao.ProdutoDAO;

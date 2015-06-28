@@ -1,3 +1,12 @@
+/*
+
+Classe ConnectionManager - Classe com configuração inicial para acesso ao Banco;
+Com tratamento de erros e fechamento de conexão.
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
 package br.javaweb.dao;
 
 

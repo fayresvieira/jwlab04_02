@@ -1,3 +1,9 @@
+/*
+Classe para tratamento de excessões;
+
+fabricio.ayres@gmail.com
+*/
+
 package br.javaweb.util;
 
 

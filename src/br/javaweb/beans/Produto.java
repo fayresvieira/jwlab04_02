@@ -1,3 +1,12 @@
+/*
+
+Classe Produto com métodos para manipulação dos parametros.
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
+
 
 package br.javaweb.beans;
 

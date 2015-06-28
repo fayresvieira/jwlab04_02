@@ -1,3 +1,11 @@
+/*
+
+Classe para acesso intermediário a DAO(interface);
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
 package br.javaweb.dao;
 
 import java.util.List;

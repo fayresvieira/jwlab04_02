@@ -1,3 +1,14 @@
+/*
+
+Classe ProdutoDAOImpl - Implementação do Acesso através de DAO com comandosSQL;
+Método getCatalogoProdutos - Pega a lista de produtos através da query SQL;
+Método getProdutoById - Faz a listagem atrvés do Id SQL;
+Método createTable - Faz a criação da tabela no banco;
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
 package br.javaweb.dao;
 
 import java.sql.Connection;
